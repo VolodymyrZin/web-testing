@@ -60,7 +60,8 @@ pytest
 web-testing/
 │
 ├── tests/
-│   ├── test_the_internet.py   
+│   ├── test_the_internet.py
+|___conftest.py  
 ├── requirements.txt      
 └── README.md             
 ```
